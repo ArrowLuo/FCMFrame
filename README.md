@@ -5,4 +5,6 @@ This is a java application with visual interface.
 
 The function of this application just like "fcm demo" in matlab.
 
+![image](./cuting/source_ep.png)
+
 ![image](./cutimg/cutimage_1.jpg)
