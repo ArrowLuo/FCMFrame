@@ -7,7 +7,7 @@ The function of this application just like "fcm demo" in matlab.
 
 **If you are lazy :), you can download zip to see FCMFrame_deploy, there are .exe waiting for you**
 
-**FCMFrame_deploy 有可执行exe哦~~**
+**FCMFrame_deploy 有可执行exe哦~**
 
 ![image](./cutimg/source_ep.png)
 
